@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-11-25 16:45">
+  <shop>
+    <name>Товарный фид LINNIK FITNESS</name>
+    <company>LINNIK FITNESS</company>
+    <url>https://linnik-fitness.ru</url>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <offers>
+      <offer id="1" available="true">
+        <name>Богатый фитнес-тренер</name>
+        <url>https://linnik-fitness.ru/bft?utm_source=habr_kursy&amp;utm_medium=cpc&amp;utm_campaign=bft</url>
+        <picture>https://static.tildacdn.com/tild3633-6432-4161-b434-386231326538/IMG_3004.jpg</picture>
+        <price>39900</price>
+        <oldprice>45900</oldprice>
+        <currencyId>RUB</currencyId>
+        <specialization>Красота и здоровье</specialization>
+        <param name="Дата начала">В любой момент</param>
+        <duration unit="month">5</duration>
+        <skills>
+          <skill id="1">Фитнес тренеры</skill>
+          <skill id="2">Составление программ тренировок</skill>
+          <skill id="3">Техника упражнений</skill>
+          <skill id="4">Тренировки в тренажерном зале</skill>
+          <skill id="5">Анатомия</skill>
+          <skill id="6">Биомеханика</skill>
+          <skill id="7">Нутрициология</skill>
+          <skill id="8">Составление рациона питания</skill>
+        </skills>
+        <description><![CDATA[<p>Дистанционная профессиональная переподготовка для тех, кто хочет стать фитнес-тренером и работать в зале и онлайн.</p><p>Вы изучите анатомию, биомеханику и физиологию, научитесь ставить технику упражнений, составлять программы тренировок и рационы питания.</p><p>Первых клиентов ведёте под контролем личного куратора, в конце сдаёте практический экзамен и получаете диплом о профессиональной переподготовке установленного образца.</p><p>Модули:</p><ul><li>Анатомия человека. Как устроено тело</li><li>Биомеханика</li><li>Физиология</li><li>Техника упражнений: детальный разбор, объяснение и обучение клиентов</li><li>Составление программ тренировок</li><li>Нутрициология</li><li>Профессиональный рост: поиск клиентов и работа в фитнес-клубе</li></ul>]]></description>
+        <param name="Оплата в рассрочку">Да</param>
+        <param name="Период рассрочки">10</param>
+        <param name="Ежемесячный платеж">3690</param>
+        <param name="Формат занятий">online</param>
+        <target>Переподготовка</target>
+        <param name="Выдаётся сертификат">Да</param>
+        <param name="Помощь с трудоустройством">Нет</param>
+        <type>Курс</type>
+        <param name="Бесплатная часть">Нет</param>
+        <param name="Наличие ментора">Да</param>
+        <param name="Наличие куратора">Да</param>
+        <param name="Индивидуальный формат обучения">Нет</param>
+        <param name="Групповой формат обучения">Да</param>
+      </offer>
+      <offer id="2" available="true">
+        <name>Всё о теле и движении</name>
+        <url>https://linnik-fitness.ru/anatomy?utm_source=habr_kursy&amp;utm_medium=cpc&amp;utm_campaign=anatomy</url>
+        <picture>https://static.tildacdn.com/tild6361-3536-4266-b462-343234396236/___.png</picture>
+        <price>2990</price>
+        <oldprice>4900</oldprice>
+        <currencyId>RUB</currencyId>
+        <specialization>Красота и здоровье</specialization>
+        <param name="Дата начала">В любой момент</param>
+        <duration unit="day">30</duration>
+        <skills>
+          <skill id="1">Анатомия</skill>
+          <skill id="2">Биомеханика</skill>
+          <skill id="3">Техника упражнений</skill>
+          <skill id="4">Фитнес тренеры</skill>
+          <skill id="5">Фитнес</skill>
+        </skills>
+        <description><![CDATA[<p>Онлайн-курс по анатомии, физиологии и биомеханике для фитнес-тренеров: база, которая нужна каждому тренеру.</p><p>Вы разберётесь, как устроено и работает тело, научитесь правильно выполнять и объяснять упражнения, отличать рабочие методики от бесполезных и делать тренировки безопасными.</p><p>В курсе видеоуроки, презентации, конспекты и таблицы, тесты и практические задания. По итогам выдаётся сертификат о дополнительном образовании.</p><p>Модули (36 уроков):</p><ul><li>Анатомия</li><li>Мышечная система</li><li>Биомеханика</li><li>Физиология</li></ul>]]></description>
+        <param name="Оплата в рассрочку">Нет</param>
+        <param name="Формат занятий">online</param>
+        <target>Развить навыки</target>
+        <param name="Выдаётся сертификат">Да</param>
+        <param name="Помощь с трудоустройством">Нет</param>
+        <type>Курс</type>
+        <param name="Бесплатная часть">Да</param>
+        <param name="Наличие ментора">Нет</param>
+        <param name="Наличие куратора">Да</param>
+        <param name="Индивидуальный формат обучения">Нет</param>
+        <param name="Групповой формат обучения">Да</param>
+      </offer>
+      <offer id="3" available="true">
+        <name>Мастер женского фитнеса</name>
+        <url>https://linnik-fitness.ru/female?utm_source=habr_kursy&amp;utm_medium=cpc&amp;utm_campaign=female</url>
+        <picture>https://static.tildacdn.com/tild3534-6161-4531-b639-653034623064/__.png</picture>
+        <price>3490</price>
+        <oldprice>4500</oldprice>
+        <currencyId>RUB</currencyId>
+        <specialization>Красота и здоровье</specialization>
+        <param name="Дата начала">В любой момент</param>
+        <duration unit="day">30</duration>
+        <skills>
+          <skill id="1">Женское здоровье</skill>
+          <skill id="2">Фитнес</skill>
+          <skill id="3">Фитнес тренеры</skill>
+          <skill id="4">Составление программ тренировок</skill>
+          <skill id="5">Тренировки в тренажерном зале</skill>
+        </skills>
+        <description><![CDATA[<p>Онлайн-курс для тренеров об особенностях женского организма и о том, как применять эти знания в работе с клиентками.</p><p>Вы научитесь строить тренировки с учётом менструального цикла, для снижения веса и роста мышц, работать с клиентками после родов и в возрасте 45+, а также с тазовым дном.</p><p>В курсе дополнительные материалы, тесты и практические задания. По итогам выдаётся сертификат о дополнительном образовании.</p><p>Программа:</p><ul><li>Анатомия и физиология женского организма</li><li>Физиология овуляторно-менструального цикла</li><li>Построение тренировок для снижения веса</li><li>Тренировки для мышечного роста</li><li>Фитнес после родов</li><li>Фитнес для женщин 45+</li><li>Тазовое дно</li></ul>]]></description>
+        <param name="Оплата в рассрочку">Нет</param>
+        <param name="Формат занятий">online</param>
+        <target>Развить навыки</target>
+        <param name="Выдаётся сертификат">Да</param>
+        <param name="Помощь с трудоустройством">Нет</param>
+        <type>Курс</type>
+        <param name="Бесплатная часть">Нет</param>
+        <param name="Наличие ментора">Нет</param>
+        <param name="Наличие куратора">Да</param>
+        <param name="Индивидуальный формат обучения">Нет</param>
+        <param name="Групповой формат обучения">Да</param>
+      </offer>
+      <offer id="4" available="true">
+        <name>Нутрициолог</name>
+        <url>https://linnik-fitness.ru/nutritionpro?utm_source=habr_kursy&amp;utm_medium=cpc&amp;utm_campaign=nutritionpro</url>
+        <picture>https://static.tildacdn.com/tild6265-6630-4236-b232-333764326466/photo.jpg</picture>
+        <price>3990</price>
+        <oldprice>6900</oldprice>
+        <currencyId>RUB</currencyId>
+        <specialization>Красота и здоровье</specialization>
+        <param name="Дата начала">В любой момент</param>
+        <duration unit="day">30</duration>
+        <skills>
+          <skill id="1">Нутрициология</skill>
+          <skill id="2">Правильное питание</skill>
+          <skill id="3">Составление рациона питания</skill>
+          <skill id="4">Фитнес-нутрициолог</skill>
+        </skills>
+        <description><![CDATA[<p>Базовый онлайн-курс по нутрициологии с нуля: научись составлять рационы для снижения веса, рекомпозиции и роста мышечной массы.</p><p>Опора на науку и доказательную базу, современные международные рекомендации.</p><p>В курсе тесты и практические задания, отдельный урок о работе с клиентами. По итогам выдаётся сертификат о дополнительном образовании.</p><p>Программа:</p><ul><li>Углеводы: биологическая роль и функции</li><li>Клетчатка и здоровье кишечника</li><li>Белки и их значение для организма</li><li>Жиры</li><li>Метаболизм жиров. Физиология «жиросжигания»</li><li>Молочные продукты</li><li>Витамины</li><li>Минералы</li><li>Пищеварительная система</li><li>Организация питания для снижения жировой массы</li><li>Как грамотно работать с клиентами</li><li>Гипертрофия мышц с минимальным набором жира</li><li>Снижение жировой и набор мышечной массы</li></ul>]]></description>
+        <param name="Оплата в рассрочку">Нет</param>
+        <param name="Формат занятий">online</param>
+        <target>Освоить с нуля</target>
+        <param name="Выдаётся сертификат">Да</param>
+        <param name="Помощь с трудоустройством">Нет</param>
+        <type>Курс</type>
+        <param name="Бесплатная часть">Нет</param>
+        <param name="Наличие ментора">Нет</param>
+        <param name="Наличие куратора">Да</param>
+        <param name="Индивидуальный формат обучения">Нет</param>
+        <param name="Групповой формат обучения">Да</param>
+      </offer>
+      <offer id="5" available="true">
+        <name>Беременные и молодые мамы: организация рациона и тренировок</name>
+        <url>https://linnik-fitness.ru/fitness_for_pregnant?utm_source=habr_kursy&amp;utm_medium=cpc&amp;utm_campaign=fitness_for_pregnant</url>
+        <picture>https://static.tildacdn.com/tild3535-6465-4162-b439-636235373731/_.png</picture>
+        <price>5900</price>
+        <oldprice>8900</oldprice>
+        <currencyId>RUB</currencyId>
+        <specialization>Красота и здоровье</specialization>
+        <param name="Дата начала">В любой момент</param>
+        <duration unit="day">30</duration>
+        <skills>
+          <skill id="1">Женское здоровье</skill>
+          <skill id="2">Фитнес</skill>
+          <skill id="3">Фитнес тренеры</skill>
+          <skill id="4">Составление программ тренировок</skill>
+          <skill id="5">Нутрициология</skill>
+          <skill id="6">РПП (расстройства пищевого поведения)</skill>
+        </skills>
+        <description><![CDATA[<p>Фитнес и нутрициология для подготовки к беременности, во время беременности и после родов.</p><p>Курс от врачей доказательной медицины и фитнес-экспертов для тренеров и инструкторов, которые хотят безопасно работать с беременными и молодыми мамами.</p><p>Вы научитесь составлять тренировки по триместрам и для восстановления после родов, подбирать упражнения для зала и дома, учитывать противопоказания и выстраивать базовое питание. По итогам выдаётся сертификат о дополнительном образовании.</p><p>Программа:</p><ul><li>Анатомия женской репродуктивной системы и тазового дна</li><li>Физиология беременности</li><li>Несостоятельность тазового дна (лекция акушера-гинеколога)</li><li>Принципы тренировок по триместрам, противопоказания и меры предосторожности</li><li>Питание при беременности (лекция эндокринолога)</li><li>Расстройства пищевого поведения при беременности</li><li>Послеродовой период, проверка диастаза</li><li>Практика: упражнения для зала, дома, йогатерапия и фитбол (около 3 часов)</li><li>Зачатие и развитие плода</li></ul>]]></description>
+        <param name="Оплата в рассрочку">Да</param>
+        <param name="Период рассрочки">6</param>
+        <param name="Ежемесячный платеж">1400</param>
+        <param name="Формат занятий">online</param>
+        <target>Развить навыки</target>
+        <param name="Выдаётся сертификат">Да</param>
+        <param name="Помощь с трудоустройством">Нет</param>
+        <type>Курс</type>
+        <param name="Бесплатная часть">Нет</param>
+        <param name="Наличие ментора">Нет</param>
+        <param name="Наличие куратора">Да</param>
+        <param name="Индивидуальный формат обучения">Нет</param>
+        <param name="Групповой формат обучения">Да</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
