@@ -11,7 +11,7 @@
       <offer id="1" available="true">
         <name>Богатый фитнес-тренер</name>
         <url>https://linnik-fitness.ru/bft?utm_source=habr_kursy&amp;utm_medium=cpc&amp;utm_campaign=bft</url>
-        <picture>https://static.tildacdn.com/tild3633-6432-4161-b434-386231326538/IMG_3004.jpg</picture>
+        <picture>https://fdmtd667755-cell.github.io/habr-feed/bft.jpg</picture>
         <price>39900</price>
         <oldprice>45900</oldprice>
         <currencyId>RUB</currencyId>
@@ -46,7 +46,7 @@
       <offer id="2" available="true">
         <name>Всё о теле и движении</name>
         <url>https://linnik-fitness.ru/anatomy?utm_source=habr_kursy&amp;utm_medium=cpc&amp;utm_campaign=anatomy</url>
-        <picture>https://static.tildacdn.com/tild6361-3536-4266-b462-343234396236/___.png</picture>
+        <picture>https://fdmtd667755-cell.github.io/habr-feed/anatomy.jpg</picture>
         <price>2990</price>
         <oldprice>4900</oldprice>
         <currencyId>RUB</currencyId>
@@ -76,7 +76,7 @@
       <offer id="3" available="true">
         <name>Мастер женского фитнеса</name>
         <url>https://linnik-fitness.ru/female?utm_source=habr_kursy&amp;utm_medium=cpc&amp;utm_campaign=female</url>
-        <picture>https://static.tildacdn.com/tild3534-6161-4531-b639-653034623064/__.png</picture>
+        <picture>https://fdmtd667755-cell.github.io/habr-feed/female.jpg</picture>
         <price>3490</price>
         <oldprice>4500</oldprice>
         <currencyId>RUB</currencyId>
@@ -106,7 +106,7 @@
       <offer id="4" available="true">
         <name>Нутрициолог</name>
         <url>https://linnik-fitness.ru/nutritionpro?utm_source=habr_kursy&amp;utm_medium=cpc&amp;utm_campaign=nutritionpro</url>
-        <picture>https://static.tildacdn.com/tild6265-6630-4236-b232-333764326466/photo.jpg</picture>
+        <picture>https://fdmtd667755-cell.github.io/habr-feed/nutritionpro.jpg</picture>
         <price>3990</price>
         <oldprice>6900</oldprice>
         <currencyId>RUB</currencyId>
@@ -135,7 +135,7 @@
       <offer id="5" available="true">
         <name>Беременные и молодые мамы: организация рациона и тренировок</name>
         <url>https://linnik-fitness.ru/fitness_for_pregnant?utm_source=habr_kursy&amp;utm_medium=cpc&amp;utm_campaign=fitness_for_pregnant</url>
-        <picture>https://static.tildacdn.com/tild3535-6465-4162-b439-636235373731/_.png</picture>
+        <picture>https://fdmtd667755-cell.github.io/habr-feed/fitness_for_pregnant.jpg</picture>
         <price>5900</price>
         <oldprice>8900</oldprice>
         <currencyId>RUB</currencyId>
